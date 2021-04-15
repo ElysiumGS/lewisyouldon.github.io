@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 # ☠️ ElysiumSoft Github ☠️
 
 ```cpp
