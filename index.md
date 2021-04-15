@@ -14,3 +14,9 @@ int main(int argc, char** argv)
   exit(0);
 }
 ```
+
+### My To-Do List
+- [X] Start a Github Pages site
+- [ ] Fill it with content
+- [ ] Create all pages
+- [ ] Setup downloads and information
